@@ -36,9 +36,7 @@ export default {
         }
       ]
     };
-  }
-};
-};
+  },
 </script>
 
 <style>

@@ -8,7 +8,8 @@ export default {
   name: "App",
   components: {
     CardTable
-  }
+  },
+
   data() {
     return {
       cards: [
